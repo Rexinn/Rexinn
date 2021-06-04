@@ -35,4 +35,4 @@
 [youtube]: https://www.youtube.com/Rexin
 [discord]: https://discord.com/users/797030756500111360
 
-<img align="left" width="30x" src="https://cdn.discordapp.com/emojis/793361935944515625.gif?v=1"/> [**My Web Site**](https://hzrexin.glitch.me) <img width="30x" src="https://cdn.discordapp.com/emojis/793361935944515625.gif?v=1" />
+<img align="beside" width="30x" src="https://cdn.discordapp.com/emojis/793361935944515625.gif?v=1"/> [**My Web Site**](https://hzrexin.glitch.me) <img width="30x" src="https://cdn.discordapp.com/emojis/793361935944515625.gif?v=1" />
