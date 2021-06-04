@@ -34,4 +34,4 @@
 
 [youtube]: https://www.youtube.com/Rexin
 [discord]: https://discord.com/users/797030756500111360
-<img src="https://img.icons8.com/logo"/> [**My Web Site**](https://hzrexin.glitch.me)
+<img src="https://cdn.discordapp.com/emojis/847101714070110238.gif?v=1"/> [**My Web Site**](https://hzrexin.glitch.me)
