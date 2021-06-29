@@ -36,4 +36,4 @@
 [discord]: https://discord.com/users/797030756500111360
 
 
-![](https://komarev.com/ghpvc/?username=Rexinn&label=Profile+Wiews src="https://cdn.discordapp.com/emojis/834339801804308520.gif?v=1")
+![](https://komarev.com/ghpvc/?username=Rexinn&label=PROFİLE+VİEWS)
