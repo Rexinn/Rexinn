@@ -36,4 +36,4 @@
 [discord]: https://discord.com/users/797030756500111360
 
 
-![](https://komarev.com/ghpvc/?username=Rexinn)
+![](https://komarev.com/ghpvc/?username=Rexinn&color=red)
