@@ -35,6 +35,6 @@
 [youtube]: https://www.youtube.com/Rexin
 [discord]: https://discord.com/users/797030756500111360
 
-<img width="30x" src="https://cdn.discordapp.com/emojis/834339801804308520.gif?v=1"/> [**My Web Site**](https://test.rexinn.repl.co) <img width="30x" src="https://cdn.discordapp.com/emojis/834339801804308520.gif?v=1" />
+
 
 ![](https://komarev.com/ghpvc/?username=Rexinn&label=PROFILE+VIEWS)
