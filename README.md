@@ -42,4 +42,3 @@
 <img src="https://discord.c99.nl/widget/theme-4/844835149002440705.png" width="395" height="80" alt="stats" />
 </details>
 
-![](https://media.discordapp.net/attachments/844958022517522443/863064426340417578/5376780_discord_social_media_icon_1.png?width=14&height=14)
