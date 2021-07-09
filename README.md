@@ -38,7 +38,7 @@
 ![](https://komarev.com/ghpvc/?username=Rexinn&color=red&style=flat-square)
 
 <details>
-  color="red" <summary>Discord Status</summary>
+  <summary>Discord Status</summary>
   <img src="https://discord.c99.nl/widget/theme-4/844835149002440705.png" width="395" height="80" alt="stats" />
 </details>
 
