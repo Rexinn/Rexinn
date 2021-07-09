@@ -1,6 +1,6 @@
 ### Merhaba :wave:
 
-![](https://discord.c99.nl/widget/theme-1/Rexin#0001.png)
+![](https://discord.c99.nl/widget/theme-2/844835149002440705.png)
 
 ### Spotify Playing :headphones:
 
