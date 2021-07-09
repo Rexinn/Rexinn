@@ -38,6 +38,8 @@
 ![](https://komarev.com/ghpvc/?username=Rexinn&color=red&style=flat-square)
 
 <details>
-<summary>Discord Status</summary> :discord:
+<summary>Discord Status</summary>
 <img src="https://discord.c99.nl/widget/theme-4/844835149002440705.png" width="395" height="80" alt="stats" />
 </details>
+
+![](https://cdn2.iconfinder.com/data/icons/social-hand-drawn-icons/64/discord-2-512.png)
