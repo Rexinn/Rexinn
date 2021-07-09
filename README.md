@@ -39,7 +39,7 @@
 
 <details>
   <summary>GitHub Stats</summary>
-<img src="https://discord.c99.nl/widget/theme-3/844835149002440705.png" width="80" height="395" alt="stats" />
+<img src="https://discord.c99.nl/widget/theme-3/844835149002440705.png" width="395" height="80" alt="stats" />
 </details>
 
 ![](https://discord.c99.nl/widget/theme-3/844835149002440705.png)
