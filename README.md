@@ -41,6 +41,5 @@
   <summary>GitHub Stats</summary>
 <img src="https://discord.c99.nl/widget/theme-3/844835149002440705.png" width="%100" height="150px" alt="stats" />
 </details>
-![](https://discord.c99.nl/widget/theme-3/844835149002440705.png)
 
-https://github-readme-stats.vercel.app/api?username=Rexinn&count_private=true&show_icons=true&theme=dark&hide_border=true
+![](https://discord.c99.nl/widget/theme-3/844835149002440705.png)
