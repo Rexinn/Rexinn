@@ -5,7 +5,6 @@
 
 [<img src="https://spotify-github-profile.vercel.app/api/view?uid=yigiterbil07&cover_image=true&theme=novatorem" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/yigiterbil07?si=cbcdf3e908b9494b)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yigiterbil07&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=yigiterbil07&redirect=true)
 
 
 
